@@ -108,3 +108,5 @@ We use [rubocop](https://rubocop.org) to lint/format the code. You can run it wi
 ```bash
 bundle exec rubocop
 ```
+
+A
